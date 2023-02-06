@@ -39,16 +39,16 @@ h4{text-align:center;margin:30px 0;color:#444}
 .main-timeline .timeline:nth-child(4n) .timeline-icon{border-color:#2fcea5}
 .main-timeline .timeline:nth-child(4n) .title{color:#2fcea5}
 .main-timeline .timeline:nth-child(4n) .timeline-content:before{border-left-color:#2fcea5;border-bottom-color:#2fcea5}
-@media only screen and (max-width:1500px){.main-timeline .timeline-icon:before{width:50px;right:-50px}
+@media only screen and (max-width:1600px){.main-timeline .timeline-icon:before{width:50px;right:-50px}
 .main-timeline .timeline:nth-child(even) .timeline-icon:before{right:auto;left:-50px}
 .main-timeline .timeline-content{margin-top:75px}
 }
-@media only screen and (max-width:1290px){.main-timeline .timeline{margin:0 0 10px}
+@media only screen and (max-width:1490px){.main-timeline .timeline{margin:0 0 10px}
 .main-timeline .timeline-icon{left:25%}
 .main-timeline .timeline:nth-child(even) .timeline-icon{right:25%}
 .main-timeline .timeline-content{margin-top:115px}
 }
-@media only screen and (max-width:1067px){.main-timeline{padding-top:50px}
+@media only screen and (max-width:1267px){.main-timeline{padding-top:50px}
 .main-timeline:before{left:80px;right:0;margin:0}
 .main-timeline .timeline{margin-bottom:70px}
 .main-timeline .timeline:before{top:0;left:83px;right:0;margin:0}
@@ -63,7 +63,7 @@ h4{text-align:center;margin:30px 0;color:#444}
 .main-timeline .timeline:nth-child(even) .timeline-content:before{right:auto;transform:rotateY(0)}
 .main-timeline .timeline-content:after,.main-timeline .timeline:nth-child(even) .timeline-content:after{left:85px}
 }
-@media only screen and (max-width:779px){.main-timeline .timeline-content,.main-timeline .timeline:nth-child(2n) .timeline-content{padding-left:110px}
+@media only screen and (max-width:1179px){.main-timeline .timeline-content,.main-timeline .timeline:nth-child(2n) .timeline-content{padding-left:110px}
 .main-timeline .timeline-content:before,.main-timeline .timeline:nth-child(2n) .timeline-content:before{left:99px}
 .main-timeline .timeline-content:after,.main-timeline .timeline:nth-child(2n) .timeline-content:after{left:65px}
 }
@@ -104,16 +104,16 @@ h4{text-align:center;margin:30px 0;color:#444}
 .main-timeline4 .timeline:nth-child(5n) .year{border-color:#337ab7;color:#337ab7}
 .main-timeline4 .timeline:nth-child(5) .year:before{border-left-color:#337ab7}
 .main-timeline4 .timeline:nth-child(5n) .title{color:#337ab7}
-@media only screen and (max-width:1400px){.main-timeline4 .year{top:50%;transform:translateY(-50%)}
+@media only screen and (max-width:1600px){.main-timeline4 .year{top:50%;transform:translateY(-50%)}
 }
-@media only screen and (max-width:1190px){.main-timeline4 .timeline{padding-left:75px}
+@media only screen and (max-width:1390px){.main-timeline4 .timeline{padding-left:75px}
 .main-timeline4 .timeline:nth-child(2n){padding:0 75px 0 0}
 .main-timeline4 .timeline-content{padding-left:130px}
 .main-timeline4 .timeline:nth-child(2n) .timeline-content{padding:0 130px 0 0}
 .main-timeline4 .timeline-content:before{width:68px;left:-68px}
 .main-timeline4 .timeline:nth-child(2n) .timeline-content:before{right:-68px}
 }
-@media only screen and (max-width:967px){.main-timeline4{overflow:visible}
+@media only screen and (max-width:1167px){.main-timeline4{overflow:visible}
 .main-timeline4:before{height:100%;top:0;left:0;transform:translateX(0)}
 .main-timeline4 .timeline:before,.main-timeline4 .timeline:nth-child(2n):before{top:60px;left:-9px;transform:translateX(0)}
 .main-timeline4 .timeline,.main-timeline4 .timeline:nth-child(even),.main-timeline4 .timeline:nth-child(odd){width:100%;float:none;text-align:center;padding:0;margin:0 0 10px}
