@@ -10,7 +10,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Site
-   url: https://ch-montperrin.fr/
+   url: https://www.ch-montperrin.fr/
  - title: GitHub
    url: https://github.com/Traveled
 #  - title: DZone
@@ -42,7 +42,7 @@ skills:
 
 #Work experience is required
 roles:
- - title: Architechte systeme
+ - title: Architecte systeme
    start: 2008
    end: Ongoing
    employer: Centre Hospitalier Montperrin
