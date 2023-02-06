@@ -112,10 +112,10 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>• INFRASTRUCTURE</strong>: Vsphere V8.0 / Citrix Hypervisor 8.2 / PureStorage, Dell Emc, FC Brocade, Reseau H3C-Hpe
-   <strong>• ENVIRONEMENT</strong>: MICROSOFT 2019-2022: AD, SYSTEM CENTER, EXCHANGE, BASTILLION, WSUS, CLUSTERS MS, IPAM, MSSQL, AZURE, OFFICE 2021   CITRIX 2203: XENAPP, ADC, PVS, MCS, WEM / HCI, VDI / LINUX, UNIX / ILEX IAM & SSO, SIEM
-   <strong>• SUPERVISION-GESTION</strong> SCOM, PRTG, NAGIOS, LIBRENMS, TIG STACK / SCCM, DELL OME, WMS/ ADAUDIT+, GRAYLOG, ELASTICSEARCH, WINDOWS ADMIN CENTER, GLPI, SKYLINE/ANSIBLE, CHEF, PUPPET, GIT 
-   <strong>• SÉCURITÉ & SAUVEGARDE</strong>: CHECKPOINT +FORTINET / OTP-2FA-SMARTCARD / ATEMPO TINA / VEEAM / CYBERWATCH / PROOFPOINT
+   <strong>• INFRASTRUCTURE</strong>: Vsphere V8.0 / Citrix Hypervisor 8.2 / PureStorage, Dell Emc, FC Brocade, Reseau H3C-Hpe<br/><br/>
+   <strong>• ENVIRONEMENT</strong>: MICROSOFT 2019-2022: AD, SYSTEM CENTER, EXCHANGE, BASTILLION, WSUS, CLUSTERS MS, IPAM, MSSQL, AZURE, OFFICE 2021   CITRIX 2203: XENAPP, ADC, PVS, MCS, WEM / HCI, VDI / LINUX, UNIX / ILEX IAM & SSO, SIEM<br/><br/>
+   <strong>• SUPERVISION-GESTION</strong> SCOM, PRTG, NAGIOS, LIBRENMS, TIG STACK / SCCM, DELL OME, WMS/ ADAUDIT+, GRAYLOG, ELASTICSEARCH, WINDOWS ADMIN CENTER, GLPI, SKYLINE/ANSIBLE, CHEF, PUPPET, GIT <br/><br/>
+   <strong>• SÉCURITÉ & SAUVEGARDE</strong>: CHECKPOINT +FORTINET / OTP-2FA-SMARTCARD / ATEMPO TINA / VEEAM / CYBERWATCH / PROOFPOINT<br/><br/>
    <strong>• LANGUAGES</strong>: PowerShell (Expert), Bash, .Net, C#, Python 
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
