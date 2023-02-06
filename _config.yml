@@ -9,18 +9,15 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+ - title: Site
+   url: https://ch-montperrin.fr/
  - title: GitHub
    url: https://github.com/Traveled
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+#  - title: DZone
+  #  url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
+   url: https://www.linkedin.com/in/%C3%A9douard-richard-a6a80749
+
 
 #Any buzzword skills you want to include
 skills:
@@ -51,20 +48,10 @@ roles:
    employer: Centre Hospitalier Montperrin
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
  - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   start: 2007
+   end: 2008
+   employer: EDL
+   description: Responsable service reprographe et station manip radio.
 
 #Education is required
 education:
@@ -84,41 +71,41 @@ education:
 #    - title: Functional Programming Principles in Scala
 #      link: https://www.coursera.org/course/progfun
 #      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    #   date: September 16, 2013
+    # - title: Algorithms Design and Analysis, Part 1
+    #   link: https://www.coursera.org/specializations/algorithms
+    #   optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+    #   date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+# speakerdeck:
+#    profileurl: https://speakerdeck.com/robhinds
+#    talks:
+#     - title: Product Management for Engineers
+#       speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#       conference: API Conference, Berlin 2018
+#     - title: Agile Machine Learning - from Theory to Production
+#       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#       conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ - Traveled/Traveled.github.io
+ - Traveled/ScaLambda
+ - Traveled/opinionated-akka-http
+ - Traveled/food2vec
+ - Traveled/microservices
+ - Traveled/spring-social-geeklist
+ - Traveled/spring-social-stackoverflow
+ - Traveled/genotype
+ - Traveled/footweets
+ - Traveled/ElasticSearchGradle
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+# stackoverflow:
+#    profileurl: https://stackoverflow.com/users/258813/rhinds
+#    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
   I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
