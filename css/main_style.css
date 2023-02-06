@@ -36,7 +36,7 @@ table {
 
 #masthead {
 	height:50px;
-	min-width: 1000px;
+	min-width: 1500px;
 }
 
 #header_controls {
@@ -93,7 +93,7 @@ table {
 	height: 35px;
 	position: relative;
 	margin:0 auto;
-	min-width: 1000px;
+	min-width: 1500px;
 	/*max-width:1000px;*/
 	color:white;
 	font-size:small;
